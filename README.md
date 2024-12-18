@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me
 
-Hi there! I'm a Software Engineering undergraduate with a strong interest in learning new technologies and continuously developing my skills. I'm passionate about expanding my knowledge and exploring new areas of software development. With a focus on personal and professional growth, I'm eager to take on challenges that will help me advance my career. I'm currently seeking an internship to gain hands-on experience and further my development as a software engineer.
+Hi there! I'm a Software Engineering undergraduate with a strong interest in learning new technologies and continuously developing my skills. I'm passionate about expanding my knowledge and exploring new areas of software development. With a focus on personal and professional growth, I'm eager to take on challenges that will help me advance my career.
 
 🌟 What I Do
 
