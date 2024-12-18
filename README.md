@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me
 
-Hi there! I'm a software engineering undergraduate with a growing passion for creating clean, efficient, and impactful software. My journey in software development has given me hands-on experience with languages like Java, C++, PHP, and JavaScript, as well as web technologies like HTML, CSS, and Bootstrap. I also have experience working with MySQL databases.
+Hi there! I'm a Software Engineering undergraduate with a strong interest in learning new technologies and continuously developing my skills. I'm passionate about expanding my knowledge and exploring new areas of software development. With a focus on personal and professional growth, I'm eager to take on challenges that will help me advance my career. I'm currently seeking an internship to gain hands-on experience and further my development as a software engineer.
 
 🌟 What I Do
 
