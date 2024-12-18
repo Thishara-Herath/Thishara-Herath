@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👩‍💻 About Me
+Hi there! I'm a software engineering undergraduate with a growing passion for creating clean, efficient, and impactful software. My journey in tech has given me hands-on experience with languages like Java, C++, PHP, and JavaScript, as well as web technologies like HTML, CSS, and Bootstrap.
 
-<!--
-**Thishara-Herath/Thishara-Herath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 What I Do
 
-Here are some ideas to get you started:
+Learning and improving every day.
+Building small projects to strengthen my skills.
+Exploring real-world problem-solving through code.
+🎯 Current Focus
+I'm actively seeking an internship to gain practical experience and contribute to meaningful projects while expanding my knowledge in the software development field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let’s Connect
+If you're looking for a dedicated and enthusiastic learner to join your team or collaborate on projects, feel free to reach out!
+
